@@ -1,0 +1,5 @@
+Installation can be done in two different ways. Either you download the latest release or you follow the
+I decided to go with the installation guide and install it through Composer.
+After running composer update you can run the install script. You will be questioned for database credentials and your
+5678633333333333335
+4699068579056
